@@ -22,7 +22,8 @@ use Encode;
 my @color = qw/4A5049 545B55 5F6661 6A716E 757C7A 808787 8B9293 969DA0 A1A8AC ACB3B9/;
 
 my $noip = {
-	"107.182.184.13" => 1
+	"107.182.184.13" => 1,
+	"98.142.136.12" => 1
 };
 
 my $hightest_contact = 0.28;
