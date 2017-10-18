@@ -47810,3 +47810,293 @@
 [Mon Sep 25 06:45:48 2017] [debug] Routing to a callback
 [Mon Sep 25 06:45:48 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
 [Mon Sep 25 06:45:48 2017] [debug] 200 OK (0.00117s, 854.701/s)
+[Tue Sep 26 03:42:29 2017] [debug] GET "/"
+[Tue Sep 26 03:42:29 2017] [debug] Routing to a callback
+[Tue Sep 26 03:42:29 2017] [debug] Rendering template "/ccccm_index.html.ep"
+[Tue Sep 26 03:42:29 2017] [debug] 200 OK (0.01251s, 79.936/s)
+[Tue Sep 26 03:42:46 2017] [debug] GET "/"
+[Tue Sep 26 03:42:46 2017] [debug] Routing to a callback
+[Tue Sep 26 03:42:46 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:42:46 2017] [debug] 200 OK (0.002104s, 475.285/s)
+[Tue Sep 26 03:42:55 2017] [debug] GET "/"
+[Tue Sep 26 03:42:55 2017] [debug] Routing to a callback
+[Tue Sep 26 03:42:55 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:42:55 2017] [debug] 200 OK (0.001838s, 544.070/s)
+[Tue Sep 26 03:43:05 2017] [debug] GET "/"
+[Tue Sep 26 03:43:05 2017] [debug] Routing to a callback
+[Tue Sep 26 03:43:05 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:43:05 2017] [debug] 200 OK (0.001832s, 545.852/s)
+[Tue Sep 26 03:43:15 2017] [debug] GET "/"
+[Tue Sep 26 03:43:15 2017] [debug] Routing to a callback
+[Tue Sep 26 03:43:15 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:43:15 2017] [debug] 200 OK (0.00177s, 564.972/s)
+[Tue Sep 26 03:47:37 2017] [debug] GET "/"
+[Tue Sep 26 03:47:37 2017] [debug] Routing to a callback
+[Tue Sep 26 03:47:37 2017] [debug] Rendering template "/ccccm_index.html.ep"
+[Tue Sep 26 03:47:37 2017] [debug] 200 OK (0.012453s, 80.302/s)
+[Tue Sep 26 03:49:17 2017] [debug] GET "/"
+[Tue Sep 26 03:49:17 2017] [debug] Routing to a callback
+[Tue Sep 26 03:49:17 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:49:17 2017] [debug] 200 OK (0.001785s, 560.224/s)
+[Tue Sep 26 03:57:55 2017] [debug] GET "/"
+[Tue Sep 26 03:57:55 2017] [debug] Routing to a callback
+[Tue Sep 26 03:57:55 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:57:55 2017] [debug] 200 OK (0.001865s, 536.193/s)
+[Tue Sep 26 03:59:18 2017] [debug] GET "/access"
+[Tue Sep 26 03:59:18 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:18 2017] [debug] Rendering template "/access.html.ep"
+[Tue Sep 26 03:59:18 2017] [debug] 200 OK (0.00972s, 102.881/s)
+[Tue Sep 26 03:59:31 2017] [debug] GET "/"
+[Tue Sep 26 03:59:31 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:31 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:59:31 2017] [debug] 200 OK (0.001759s, 568.505/s)
+[Tue Sep 26 03:59:39 2017] [debug] GET "/search"
+[Tue Sep 26 03:59:39 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:39 2017] [debug] Rendering template "/ccccm_search.html.ep"
+[Tue Sep 26 03:59:39 2017] [debug] 200 OK (0.066457s, 15.047/s)
+[Tue Sep 26 03:59:39 2017] [debug] GET "/graph1"
+[Tue Sep 26 03:59:39 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:39 2017] [debug] Rendering template "/ccccm_graph1.html.ep"
+[Tue Sep 26 03:59:39 2017] [debug] 200 OK (0.002684s, 372.578/s)
+[Tue Sep 26 03:59:39 2017] [debug] GET "/table1"
+[Tue Sep 26 03:59:39 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:39 2017] [debug] Rendering template "/ccccm_table.html.ep"
+[Tue Sep 26 03:59:39 2017] [debug] 200 OK (0.001432s, 698.324/s)
+[Tue Sep 26 03:59:43 2017] [debug] GET "/"
+[Tue Sep 26 03:59:43 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:43 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:59:43 2017] [debug] 200 OK (0.001723s, 580.383/s)
+[Tue Sep 26 03:59:43 2017] [debug] GET "/graph2"
+[Tue Sep 26 03:59:43 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:43 2017] [debug] Rendering template "/ccccm_graph2.html.ep"
+[Tue Sep 26 03:59:43 2017] [debug] 200 OK (0.002985s, 335.008/s)
+[Tue Sep 26 03:59:43 2017] [debug] GET "/table2"
+[Tue Sep 26 03:59:43 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:43 2017] [debug] Rendering cached template "/ccccm_table.html.ep"
+[Tue Sep 26 03:59:43 2017] [debug] 200 OK (0.000373s, 2680.965/s)
+[Tue Sep 26 03:59:44 2017] [debug] GET "/"
+[Tue Sep 26 03:59:44 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:44 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 03:59:44 2017] [debug] 200 OK (0.001681s, 594.884/s)
+[Tue Sep 26 03:59:44 2017] [debug] GET "/graph1"
+[Tue Sep 26 03:59:44 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:44 2017] [debug] Rendering cached template "/ccccm_graph1.html.ep"
+[Tue Sep 26 03:59:44 2017] [debug] 200 OK (0.000899s, 1112.347/s)
+[Tue Sep 26 03:59:44 2017] [debug] GET "/table1"
+[Tue Sep 26 03:59:44 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:44 2017] [debug] Rendering cached template "/ccccm_table.html.ep"
+[Tue Sep 26 03:59:44 2017] [debug] 200 OK (0.000423s, 2364.066/s)
+[Tue Sep 26 03:59:49 2017] [debug] GET "/access"
+[Tue Sep 26 03:59:49 2017] [debug] Routing to a callback
+[Tue Sep 26 03:59:49 2017] [debug] Rendering cached template "/access.html.ep"
+[Tue Sep 26 03:59:49 2017] [debug] 200 OK (0.005713s, 175.039/s)
+[Tue Sep 26 04:00:22 2017] [debug] GET "/"
+[Tue Sep 26 04:00:22 2017] [debug] Routing to a callback
+[Tue Sep 26 04:00:22 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 04:00:22 2017] [debug] 200 OK (0.001935s, 516.796/s)
+[Tue Sep 26 04:00:25 2017] [debug] GET "/access"
+[Tue Sep 26 04:00:25 2017] [debug] Routing to a callback
+[Tue Sep 26 04:00:25 2017] [debug] Rendering cached template "/access.html.ep"
+[Tue Sep 26 04:00:25 2017] [debug] 200 OK (0.00605s, 165.289/s)
+[Tue Sep 26 04:03:20 2017] [debug] GET "/a"
+[Tue Sep 26 04:03:20 2017] [debug] Template "not_found.development.html.ep" not found
+[Tue Sep 26 04:03:20 2017] [debug] Template "not_found.html.ep" not found
+[Tue Sep 26 04:03:20 2017] [debug] Rendering template "mojo/debug.html.ep"
+[Tue Sep 26 04:03:20 2017] [debug] Rendering template "mojo/menubar.html.ep"
+[Tue Sep 26 04:03:20 2017] [debug] Your secret passphrase needs to be changed
+[Tue Sep 26 04:03:20 2017] [debug] 404 Not Found (0.020386s, 49.053/s)
+[Tue Sep 26 04:03:23 2017] [debug] GET "/access"
+[Tue Sep 26 04:03:23 2017] [debug] Routing to a callback
+[Tue Sep 26 04:03:23 2017] [debug] Rendering cached template "/access.html.ep"
+[Tue Sep 26 04:03:23 2017] [debug] 200 OK (0.005241s, 190.803/s)
+[Tue Sep 26 04:10:40 2017] [debug] GET "/"
+[Tue Sep 26 04:10:40 2017] [debug] Routing to a callback
+[Tue Sep 26 04:10:40 2017] [debug] Rendering template "/ccccm_index.html.ep"
+[Tue Sep 26 04:10:40 2017] [debug] 200 OK (0.013102s, 76.324/s)
+[Tue Sep 26 04:10:44 2017] [debug] GET "/access"
+[Tue Sep 26 04:10:44 2017] [debug] Routing to a callback
+[Tue Sep 26 04:10:44 2017] [debug] Rendering template "/access.html.ep"
+[Tue Sep 26 04:10:44 2017] [debug] 200 OK (0.010093s, 99.079/s)
+[Tue Sep 26 04:10:56 2017] [debug] GET "/search"
+[Tue Sep 26 04:10:56 2017] [debug] Routing to a callback
+[Tue Sep 26 04:10:56 2017] [debug] Rendering template "/ccccm_search.html.ep"
+[Tue Sep 26 04:10:56 2017] [debug] 200 OK (0.066904s, 14.947/s)
+[Tue Sep 26 04:10:57 2017] [debug] GET "/graph1"
+[Tue Sep 26 04:10:57 2017] [debug] Routing to a callback
+[Tue Sep 26 04:10:57 2017] [debug] Rendering template "/ccccm_graph1.html.ep"
+[Tue Sep 26 04:10:57 2017] [debug] 200 OK (0.002796s, 357.654/s)
+[Tue Sep 26 04:10:57 2017] [debug] GET "/table1"
+[Tue Sep 26 04:10:57 2017] [debug] Routing to a callback
+[Tue Sep 26 04:10:57 2017] [debug] Rendering template "/ccccm_table.html.ep"
+[Tue Sep 26 04:10:57 2017] [debug] 200 OK (0.001842s, 542.888/s)
+[Tue Sep 26 04:11:01 2017] [debug] GET "/access"
+[Tue Sep 26 04:11:01 2017] [debug] Routing to a callback
+[Tue Sep 26 04:11:01 2017] [debug] Rendering cached template "/access.html.ep"
+[Tue Sep 26 04:11:01 2017] [debug] 200 OK (0.006028s, 165.893/s)
+[Tue Sep 26 04:11:11 2017] [debug] GET "/download_contact_list"
+[Tue Sep 26 04:11:11 2017] [debug] Routing to a callback
+[Tue Sep 26 04:11:11 2017] [debug] 200 OK (0.000696s, 1436.782/s)
+[Tue Sep 26 04:11:17 2017] [debug] GET "/access"
+[Tue Sep 26 04:11:17 2017] [debug] Routing to a callback
+[Tue Sep 26 04:11:17 2017] [debug] Rendering cached template "/access.html.ep"
+[Tue Sep 26 04:11:17 2017] [debug] 200 OK (0.005813s, 172.028/s)
+[Tue Sep 26 04:26:30 2017] [debug] GET "/"
+[Tue Sep 26 04:26:30 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:30 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 04:26:30 2017] [debug] 200 OK (0.001831s, 546.150/s)
+[Tue Sep 26 04:26:37 2017] [debug] GET "/search"
+[Tue Sep 26 04:26:37 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:37 2017] [debug] Rendering cached template "/ccccm_search.html.ep"
+[Tue Sep 26 04:26:37 2017] [debug] 200 OK (0.003931s, 254.388/s)
+[Tue Sep 26 04:26:38 2017] [debug] GET "/search"
+[Tue Sep 26 04:26:38 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:38 2017] [debug] Rendering cached template "/ccccm_search.html.ep"
+[Tue Sep 26 04:26:38 2017] [debug] 200 OK (0.007406s, 135.026/s)
+[Tue Sep 26 04:26:39 2017] [debug] GET "/graph1"
+[Tue Sep 26 04:26:39 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:39 2017] [debug] Rendering cached template "/ccccm_graph1.html.ep"
+[Tue Sep 26 04:26:39 2017] [debug] 200 OK (0.00095s, 1052.632/s)
+[Tue Sep 26 04:26:39 2017] [debug] GET "/table1"
+[Tue Sep 26 04:26:39 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:39 2017] [debug] Rendering cached template "/ccccm_table.html.ep"
+[Tue Sep 26 04:26:39 2017] [debug] 200 OK (0.000767s, 1303.781/s)
+[Tue Sep 26 04:26:49 2017] [debug] GET "/"
+[Tue Sep 26 04:26:49 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:49 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 04:26:49 2017] [debug] 200 OK (0.001789s, 558.971/s)
+[Tue Sep 26 04:26:49 2017] [debug] GET "/graph2"
+[Tue Sep 26 04:26:49 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:49 2017] [debug] Rendering template "/ccccm_graph2.html.ep"
+[Tue Sep 26 04:26:49 2017] [debug] 200 OK (0.00498s, 200.803/s)
+[Tue Sep 26 04:26:49 2017] [debug] GET "/table2"
+[Tue Sep 26 04:26:49 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:49 2017] [debug] Rendering cached template "/ccccm_table.html.ep"
+[Tue Sep 26 04:26:49 2017] [debug] 200 OK (0.000469s, 2132.196/s)
+[Tue Sep 26 04:26:58 2017] [debug] GET "/access"
+[Tue Sep 26 04:26:58 2017] [debug] Routing to a callback
+[Tue Sep 26 04:26:58 2017] [debug] Rendering cached template "/access.html.ep"
+[Tue Sep 26 04:26:58 2017] [debug] 200 OK (0.005953s, 167.983/s)
+[Tue Sep 26 04:27:16 2017] [debug] GET "/"
+[Tue Sep 26 04:27:16 2017] [debug] Routing to a callback
+[Tue Sep 26 04:27:16 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Tue Sep 26 04:27:16 2017] [debug] 200 OK (0.001893s, 528.262/s)
+[Thu Sep 28 21:32:35 2017] [debug] GET "/access"
+[Thu Sep 28 21:32:35 2017] [debug] Routing to a callback
+[Thu Sep 28 21:32:35 2017] [debug] Rendering cached template "/access.html.ep"
+[Thu Sep 28 21:32:35 2017] [debug] 200 OK (0.007008s, 142.694/s)
+[Fri Sep 29 02:06:28 2017] [debug] GET "/"
+[Fri Sep 29 02:06:28 2017] [debug] Routing to a callback
+[Fri Sep 29 02:06:28 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Fri Sep 29 02:06:28 2017] [debug] 200 OK (0.002326s, 429.923/s)
+[Fri Sep 29 02:06:49 2017] [debug] GET "/access"
+[Fri Sep 29 02:06:49 2017] [debug] Routing to a callback
+[Fri Sep 29 02:06:49 2017] [debug] Rendering cached template "/access.html.ep"
+[Fri Sep 29 02:06:49 2017] [debug] 200 OK (0.005261s, 190.078/s)
+[Fri Sep 29 02:07:24 2017] [debug] GET "/access"
+[Fri Sep 29 02:07:24 2017] [debug] Routing to a callback
+[Fri Sep 29 02:07:24 2017] [debug] Rendering cached template "/access.html.ep"
+[Fri Sep 29 02:07:24 2017] [debug] 200 OK (0.005549s, 180.213/s)
+[Fri Sep 29 02:07:41 2017] [debug] GET "/access"
+[Fri Sep 29 02:07:41 2017] [debug] Routing to a callback
+[Fri Sep 29 02:07:41 2017] [debug] Rendering cached template "/access.html.ep"
+[Fri Sep 29 02:07:41 2017] [debug] 200 OK (0.006271s, 159.464/s)
+[Fri Sep 29 02:08:37 2017] [debug] GET "/access"
+[Fri Sep 29 02:08:37 2017] [debug] Routing to a callback
+[Fri Sep 29 02:08:37 2017] [debug] Rendering cached template "/access.html.ep"
+[Fri Sep 29 02:08:37 2017] [debug] 200 OK (0.006894s, 145.054/s)
+[Fri Sep 29 02:12:02 2017] [debug] GET "/"
+[Fri Sep 29 02:12:02 2017] [debug] Routing to a callback
+[Fri Sep 29 02:12:02 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Fri Sep 29 02:12:02 2017] [debug] 200 OK (0.001751s, 571.102/s)
+[Thu Oct  5 21:51:21 2017] [debug] Inactivity timeout
+[Thu Oct  5 22:15:57 2017] [debug] GET "/"
+[Thu Oct  5 22:15:57 2017] [debug] Routing to a callback
+[Thu Oct  5 22:15:57 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Thu Oct  5 22:15:57 2017] [debug] 200 OK (0.00404s, 247.525/s)
+[Sun Oct  8 21:43:59 2017] [debug] GET "/access"
+[Sun Oct  8 21:43:59 2017] [debug] Routing to a callback
+[Sun Oct  8 21:43:59 2017] [debug] Rendering cached template "/access.html.ep"
+[Sun Oct  8 21:43:59 2017] [debug] 200 OK (0.105116s, 9.513/s)
+[Mon Oct  9 22:12:38 2017] [debug] GET "/"
+[Mon Oct  9 22:12:38 2017] [debug] Routing to a callback
+[Mon Oct  9 22:12:38 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Mon Oct  9 22:12:38 2017] [debug] 200 OK (0.020285s, 49.298/s)
+[Mon Oct  9 22:12:55 2017] [debug] GET "/search"
+[Mon Oct  9 22:12:55 2017] [debug] Routing to a callback
+[Mon Oct  9 22:12:55 2017] [debug] Rendering cached template "/ccccm_search.html.ep"
+[Mon Oct  9 22:12:55 2017] [debug] 200 OK (0.023205s, 43.094/s)
+[Mon Oct  9 22:12:57 2017] [debug] GET "/search"
+[Mon Oct  9 22:12:57 2017] [debug] Routing to a callback
+[Mon Oct  9 22:12:57 2017] [debug] Rendering cached template "/ccccm_search.html.ep"
+[Mon Oct  9 22:12:57 2017] [debug] 200 OK (0.006325s, 158.103/s)
+[Mon Oct  9 22:13:00 2017] [debug] GET "/search"
+[Mon Oct  9 22:13:00 2017] [debug] Routing to a callback
+[Mon Oct  9 22:13:00 2017] [debug] Rendering cached template "/ccccm_search.html.ep"
+[Mon Oct  9 22:13:00 2017] [debug] 200 OK (0.026566s, 37.642/s)
+[Mon Oct  9 22:13:01 2017] [debug] GET "/graph1"
+[Mon Oct  9 22:13:01 2017] [debug] Routing to a callback
+[Mon Oct  9 22:13:01 2017] [debug] Rendering cached template "/ccccm_graph1.html.ep"
+[Mon Oct  9 22:13:01 2017] [debug] 200 OK (0.001168s, 856.164/s)
+[Mon Oct  9 22:13:01 2017] [debug] GET "/table1"
+[Mon Oct  9 22:13:01 2017] [debug] Routing to a callback
+[Mon Oct  9 22:13:01 2017] [debug] Rendering cached template "/ccccm_table.html.ep"
+[Mon Oct  9 22:13:01 2017] [debug] 200 OK (0.000301s, 3322.259/s)
+[Mon Oct  9 22:13:44 2017] [debug] GET "/download_contact_list"
+[Mon Oct  9 22:13:44 2017] [debug] Routing to a callback
+[Mon Oct  9 22:13:44 2017] [debug] 200 OK (0.010955s, 91.283/s)
+[Mon Oct  9 22:13:58 2017] [debug] GET "/access"
+[Mon Oct  9 22:13:58 2017] [debug] Routing to a callback
+[Mon Oct  9 22:13:58 2017] [debug] Rendering cached template "/access.html.ep"
+[Mon Oct  9 22:13:58 2017] [debug] 200 OK (0.00734s, 136.240/s)
+[Mon Oct  9 22:14:59 2017] [debug] GET "/"
+[Mon Oct  9 22:14:59 2017] [debug] Routing to a callback
+[Mon Oct  9 22:14:59 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Mon Oct  9 22:14:59 2017] [debug] 200 OK (0.002169s, 461.042/s)
+[Mon Oct  9 22:15:13 2017] [debug] GET "/download_contact_list"
+[Mon Oct  9 22:15:13 2017] [debug] Routing to a callback
+[Mon Oct  9 22:15:13 2017] [debug] 200 OK (0.000497s, 2012.072/s)
+[Mon Oct  9 22:15:23 2017] [debug] GET "/css/images/ui-icons_444444_256x240.png"
+[Mon Oct  9 22:15:23 2017] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct  9 22:15:23 2017] [debug] Template "not_found.html.ep" not found
+[Mon Oct  9 22:15:23 2017] [debug] Rendering template "mojo/debug.html.ep"
+[Mon Oct  9 22:15:23 2017] [debug] Rendering template "mojo/menubar.html.ep"
+[Mon Oct  9 22:15:23 2017] [debug] Your secret passphrase needs to be changed
+[Mon Oct  9 22:15:23 2017] [debug] 404 Not Found (0.09879s, 10.122/s)
+[Mon Oct  9 22:15:24 2017] [debug] GET "/css/images/ui-icons_555555_256x240.png"
+[Mon Oct  9 22:15:24 2017] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct  9 22:15:24 2017] [debug] Template "not_found.html.ep" not found
+[Mon Oct  9 22:15:24 2017] [debug] Rendering cached template "mojo/debug.html.ep"
+[Mon Oct  9 22:15:24 2017] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Mon Oct  9 22:15:24 2017] [debug] 404 Not Found (0.005624s, 177.809/s)
+[Mon Oct  9 22:15:24 2017] [debug] GET "/css/images/ui-icons_ffffff_256x240.png"
+[Mon Oct  9 22:15:24 2017] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct  9 22:15:24 2017] [debug] Template "not_found.html.ep" not found
+[Mon Oct  9 22:15:24 2017] [debug] Rendering cached template "mojo/debug.html.ep"
+[Mon Oct  9 22:15:24 2017] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Mon Oct  9 22:15:24 2017] [debug] 404 Not Found (0.00595s, 168.067/s)
+[Mon Oct  9 22:15:25 2017] [debug] GET "/css/images/ui-icons_777620_256x240.png"
+[Mon Oct  9 22:15:25 2017] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct  9 22:15:25 2017] [debug] Template "not_found.html.ep" not found
+[Mon Oct  9 22:15:25 2017] [debug] Rendering cached template "mojo/debug.html.ep"
+[Mon Oct  9 22:15:25 2017] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Mon Oct  9 22:15:25 2017] [debug] 404 Not Found (0.009368s, 106.746/s)
+[Mon Oct  9 22:15:26 2017] [debug] GET "/css/images/ui-icons_cc0000_256x240.png"
+[Mon Oct  9 22:15:26 2017] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct  9 22:15:26 2017] [debug] Template "not_found.html.ep" not found
+[Mon Oct  9 22:15:26 2017] [debug] Rendering cached template "mojo/debug.html.ep"
+[Mon Oct  9 22:15:26 2017] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Mon Oct  9 22:15:26 2017] [debug] 404 Not Found (0.007898s, 126.614/s)
+[Mon Oct  9 22:15:26 2017] [debug] GET "/css/images/ui-icons_777777_256x240.png"
+[Mon Oct  9 22:15:26 2017] [debug] Template "not_found.development.html.ep" not found
+[Mon Oct  9 22:15:26 2017] [debug] Template "not_found.html.ep" not found
+[Mon Oct  9 22:15:26 2017] [debug] Rendering cached template "mojo/debug.html.ep"
+[Mon Oct  9 22:15:26 2017] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Mon Oct  9 22:15:26 2017] [debug] 404 Not Found (0.006014s, 166.279/s)
+[Wed Oct 11 04:49:26 2017] [debug] GET "/access"
+[Wed Oct 11 04:49:26 2017] [debug] Routing to a callback
+[Wed Oct 11 04:49:26 2017] [debug] Rendering cached template "/access.html.ep"
+[Wed Oct 11 04:49:26 2017] [debug] 200 OK (0.007414s, 134.880/s)
+[Fri Oct 13 08:54:19 2017] [debug] GET "/"
+[Fri Oct 13 08:54:19 2017] [debug] Routing to a callback
+[Fri Oct 13 08:54:19 2017] [debug] Rendering cached template "/ccccm_index.html.ep"
+[Fri Oct 13 08:54:19 2017] [debug] 200 OK (0.003317s, 301.477/s)

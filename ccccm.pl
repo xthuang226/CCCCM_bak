@@ -420,7 +420,7 @@ sub ip_info {
 		
 		my $sql = '
 			UPDATE ip_info
-			SET counter = '.$count.', last_access = (SELECT datetime(\'now\',\'localtime\',\'+8 hours\')), access_history = \''.$access_history.'\'||(SELECT datetime(\'now\',\'localtime\',\'+8 hours\'))||\'}\'
+			SET counter = '.$count.', last_access = (SELECT datetime(\'now\',\'localtime\',\'+12 hours\')), access_history = \''.$access_history.'\'||(SELECT datetime(\'now\',\'localtime\',\'+12 hours\'))||\'}\'
 			WHERE remoter_ip IS ?
 		';
 		my $sth = $dbh->prepare( $sql );
@@ -428,7 +428,7 @@ sub ip_info {
 	}else{
 		my $sql = '
 			INSERT INTO ip_info (remoter_ip,counter,last_access,access_history)
-			VALUES (?, 1, (SELECT datetime(\'now\',\'localtime\',\'+8 hours\')), \'{\'||(SELECT datetime(\'now\',\'localtime\',\'+8 hours\'))||\'}\')
+			VALUES (?, 1, (SELECT datetime(\'now\',\'localtime\',\'+12 hours\')), \'{\'||(SELECT datetime(\'now\',\'localtime\',\'+12 hours\'))||\'}\')
 		';
 		my $sth = $dbh->prepare( $sql );
 		$sth->execute($ip);
@@ -461,7 +461,7 @@ sub ip_download {
 		
 		my $sql = '
 			UPDATE ip_download
-			SET counter = '.$count.', last_access = (SELECT datetime(\'now\',\'localtime\',\'+8 hours\')), access_history = \''.$access_history.'\'||(SELECT datetime(\'now\',\'localtime\',\'+8 hours\'))||\'}\'
+			SET counter = '.$count.', last_access = (SELECT datetime(\'now\',\'localtime\',\'+12 hours\')), access_history = \''.$access_history.'\'||(SELECT datetime(\'now\',\'localtime\',\'+12 hours\'))||\'}\'
 			WHERE remoter_ip IS ?
 		';
 		my $sth = $dbh->prepare( $sql );
@@ -469,7 +469,7 @@ sub ip_download {
 	}else{
 		my $sql = '
 			INSERT INTO ip_download (remoter_ip,counter,last_access,access_history)
-			VALUES (?, 1, (SELECT datetime(\'now\',\'localtime\',\'+8 hours\')), \'{\'||(SELECT datetime(\'now\',\'localtime\',\'+8 hours\'))||\'}\')
+			VALUES (?, 1, (SELECT datetime(\'now\',\'localtime\',\'+12 hours\')), \'{\'||(SELECT datetime(\'now\',\'localtime\',\'+12 hours\'))||\'}\')
 		';
 		my $sth = $dbh->prepare( $sql );
 		$sth->execute($ip);
@@ -503,7 +503,7 @@ sub ip_search {
 		
 		my $sql = '
 			UPDATE ip_search
-			SET counter = '.$count.', last_access = (SELECT datetime(\'now\',\'localtime\',\'+8 hours\')), access_history = \''.$access_history.'\'||(SELECT datetime(\'now\',\'localtime\',\'+8 hours\'))||\'}\'
+			SET counter = '.$count.', last_access = (SELECT datetime(\'now\',\'localtime\',\'+12 hours\')), access_history = \''.$access_history.'\'||(SELECT datetime(\'now\',\'localtime\',\'+12 hours\'))||\'}\'
 			WHERE remoter_ip IS ?
 		';
 		my $sth = $dbh->prepare( $sql );
@@ -511,7 +511,7 @@ sub ip_search {
 	}else{
 		my $sql = '
 			INSERT INTO ip_search (remoter_ip,counter,last_access,access_history)
-			VALUES (?, 1, (SELECT datetime(\'now\',\'localtime\',\'+8 hours\')), \'{\'||(SELECT datetime(\'now\',\'localtime\',\'+8 hours\'))||\'}\')
+			VALUES (?, 1, (SELECT datetime(\'now\',\'localtime\',\'+12 hours\')), \'{\'||(SELECT datetime(\'now\',\'localtime\',\'+12 hours\'))||\'}\')
 		';
 		my $sth = $dbh->prepare( $sql );
 		$sth->execute($ip);
